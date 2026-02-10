@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------------
 
-#10:30 10-02-2026
+# 10:30 10-02-2026
 
 ok dus onze game idea is like pacman maar dan ipv pacman en powerups zijn het mensen uit btw (bocchi the rock) en like ipv de ghosts zijn het vocaloids en die gaan achter je aan en de powerops zijn specefiek kesuko band members omdat ja
 
