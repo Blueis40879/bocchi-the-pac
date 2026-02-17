@@ -19,3 +19,11 @@ Jakub  | Blue
 Map  | Beer Bottle script
 Movement Script  | Pathfinding
 Score script  | ui
+
+--------------------------------------------------------------------------------------
+
+# 10:44 17-02-2026
+
+dus dit is onze map ik hoop dat jullie het ok vinden, cheers.
+
+<img width="650" height="676" alt="obraz" src="map.png"/>
