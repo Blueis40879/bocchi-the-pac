@@ -1,4 +1,4 @@
-# bocchi-the-pac
+# horror stalker bocchi the vocaloid pacman without glasses -5 while your a alcoholic getting drunker every minute
 
 --------------------------------------------------------------------------------------
 
