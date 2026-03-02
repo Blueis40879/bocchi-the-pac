@@ -27,3 +27,12 @@ Score script  | ui
 dus dit is onze map ik hoop dat jullie het ok vinden, cheers.
 
 <img width="650" height="676" alt="obraz" src="map.png"/>
+
+
+--------------------------------------------------------------------------------------
+
+# 11:57 02-03-2026
+
+yo blue vond de map te groot dus dit is de nieuwe map gang </3
+
+<img width="650" height="676" alt="obraz" src="Untitled.png"/>
