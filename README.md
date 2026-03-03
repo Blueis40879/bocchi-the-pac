@@ -44,4 +44,4 @@ yo blue vond de map te groot dus dit is de nieuwe map gang </3
 movmenent en de enemy is er en like de path ding ook idk blue is ziek help ik doe alles maar het is ook well ok kijk maar naar wat we hebben
 ik heb ook coden hergebruikt :)
 
-<img width="650" height="676" alt="obraz" src="67.gif"/>
+<img width="1280" height="720" alt="obraz" src="67.gif"/>
