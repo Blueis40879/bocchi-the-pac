@@ -7,7 +7,7 @@ public class walking : MonoBehaviour
     {
         
     }
-
+     GameObject objToSpawn;
     // Update is called once per frame
     void Update()
     {
@@ -27,6 +27,10 @@ public class walking : MonoBehaviour
         if (Input.GetKey(KeyCode.RightArrow))
         {
             transform.position += Vector3.right * Time.deltaTime;
+        }
+        if (Input.GetKey(KeyCode.Space))
+        {
+            objToSpawn = new GameObject("Waipoint");
         }
     }
 }
