@@ -1,5 +1,6 @@
 using System.Numerics;
 using UnityEngine;
+using System.Collections.Generic;
 
 public class MovingPlatform : MonoBehaviour
 {
@@ -27,13 +28,6 @@ public class MovingPlatform : MonoBehaviour
         transform.position = UnityEngine.Vector2.MoveTowards(transform.position, points[i].position, speed * Time.deltaTime);
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        if (collision.gameObject.CompareTag("Player"))
-        {
-            collision.gameObject.transform.SetParent(transform);
-        }
-    }
 
     private void OnCollisionExit2D(Collision2D collision)
     {
