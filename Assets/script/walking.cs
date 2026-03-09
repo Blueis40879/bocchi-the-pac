@@ -9,6 +9,8 @@ public class walking : MonoBehaviour
         
     }
      GameObject objToSpawn;
+     public GameObject prefab;
+     private GameObject spawnedobject;
     // Update is called once per frame
     void Update()
     {
@@ -29,9 +31,17 @@ public class walking : MonoBehaviour
         {
             transform.position += Vector3.right * Time.deltaTime;
         }
-        if (Input.GetKey(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.Space))
         {
-            objToSpawn = new GameObject("Waipoint");
+            if (spawnedobject == null)
+            {
+                spawnedobject = Instantiate(prefab, transform.position, Quaternion.identity);
+            }
+            else
+            {
+                spawnedobject.transform.position = transform.position;
+                spawnedobject.name = prefab.name; 
+            }
         }
     }
 }
