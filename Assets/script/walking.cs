@@ -35,12 +35,13 @@ public class walking : MonoBehaviour
         {
             if (spawnedobject == null)
             {
-                spawnedobject = Instantiate(prefab, transform.position, Quaternion.identity);
+                //spawnedobject = Instantiate(prefab, transform.position, Quaternion.identity);
+                
             }
             else
             {
-                spawnedobject.transform.position = transform.position;
-                spawnedobject.name = prefab.name; 
+                
+                spawnedobject.name = "WP"; 
             }
         }
     }
