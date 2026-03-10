@@ -45,3 +45,25 @@ movmenent en de enemy is er en like de path ding ook idk blue is ziek help ik do
 ik heb ook coden hergebruikt :)
 
 <img width="1280" height="720" alt="obraz" src="67.gif"/>
+
+--------------------------------------------------------------------------------------
+
+# 10:01 10-03-2026
+
+# het idee
+je bent nijika uit bocchi the rock™
+je moet 20 bier flessen pakken die notes hebben aan hun voor dat slener man je pakt.
+slener man weet de hele tijd waar je bent maar hij is sloomer dan jij dus dat is geen probleem
+als je alle notes hebt kan je terug naar de train station en dan kan je terug naar huis.
+
+1. Hoe communiceer ik dat de speler kan bewegen?
+   text op de scherm
+   
+2. Hoe communiceer ik wat het doel van het level is?
+   dat staat well op de eerste note
+
+3. Hoe communiceer ik wat gevaarlijk is?
+   iedereen kent slenderman dat ik hoef niks uit te leggen
+
+
+De vijand is: slender man die je volgt en je hoort em als hij dicht bij is door de static en en stappen van zijn feet. 
