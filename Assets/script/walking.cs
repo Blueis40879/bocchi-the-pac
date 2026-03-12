@@ -11,6 +11,8 @@ public class walking : MonoBehaviour
      GameObject objToSpawn;
      public GameObject prefab;
      private GameObject spawnedobject;
+    public int coins;
+    public int health = 100;
     // Update is called once per frame
     void Update()
     {
