@@ -10,7 +10,7 @@ public class MovingPlatform : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        transform.position = points[0].position;
+        //transform.position = points[0].position;
     }
 
     // Update is called once per frame
