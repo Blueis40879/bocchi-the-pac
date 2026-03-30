@@ -9,8 +9,7 @@ namespace NavMeshPlus.Extensions
 
         private void Start()
         {
-            override2D = GetComponent<AgentOverride2d>();
-            override2D.agentOverride = new RotateAgentSmoothly(override2D.Agent, override2D, angularSpeed);
+            override2D.agentOverride = null;
         }
     }
 }
