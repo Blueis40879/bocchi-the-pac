@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 10ebdd948fc65704b8a7bca6b29e11e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7247404482125015890
+    second: its now safe to turn off your computer meme_0
+  - first:
+      213: -3441628913212279581
+    second: its now safe to turn off your computer meme_1
+  - first:
+      213: -3501601733390341356
+    second: its now safe to turn off your computer meme_2
+  - first:
+      213: 270095438477821848
+    second: its now safe to turn off your computer meme_3
+  - first:
+      213: 3847694564559003206
+    second: its now safe to turn off your computer meme_4
+  - first:
+      213: 7534853464417009958
+    second: its now safe to turn off your computer meme_5
+  - first:
+      213: -5400684003064110876
+    second: its now safe to turn off your computer meme_6
+  - first:
+      213: 3575194358418706219
+    second: its now safe to turn off your computer meme_7
+  - first:
+      213: -6375684053758587568
+    second: its now safe to turn off your computer meme_8
+  - first:
+      213: 6515161130035591805
+    second: its now safe to turn off your computer meme_9
+  - first:
+      213: -7119836665729144948
+    second: its now safe to turn off your computer meme_10
+  - first:
+      213: 3876665333714149504
+    second: its now safe to turn off your computer meme_11
+  - first:
+      213: -3922655728296278613
+    second: its now safe to turn off your computer meme_12
+  - first:
+      213: -4385465325004549764
+    second: its now safe to turn off your computer meme_13
+  - first:
+      213: 8319559204857951079
+    second: its now safe to turn off your computer meme_14
+  - first:
+      213: 270758600473256614
+    second: its now safe to turn off your computer meme_15
+  - first:
+      213: -8438994984319973022
+    second: its now safe to turn off your computer meme_16
+  - first:
+      213: -4154363068721555585
+    second: its now safe to turn off your computer meme_17
+  - first:
+      213: -1988039121606281688
+    second: its now safe to turn off your computer meme_18
+  - first:
+      213: 5160175380924917779
+    second: its now safe to turn off your computer meme_19
+  - first:
+      213: -4340652940773763276
+    second: its now safe to turn off your computer meme_20
+  - first:
+      213: -5798245136914640736
+    second: its now safe to turn off your computer meme_21
+  - first:
+      213: -8198036334770983320
+    second: its now safe to turn off your computer meme_22
+  - first:
+      213: -6698850641178946954
+    second: its now safe to turn off your computer meme_23
+  - first:
+      213: -4137094012593380216
+    second: its now safe to turn off your computer meme_24
+  - first:
+      213: -2625615063718206965
+    second: its now safe to turn off your computer meme_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: its now safe to turn off your computer meme_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 48
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea45d5b950c0c6b90800000000000000
+      internalID: -7247404482125015890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: its now safe to turn off your computer meme_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 48
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4b44becb0ec30d0800000000000000
+      internalID: -3441628913212279581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: its now safe to turn off your computer meme_2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 61
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b606896cfc76fc0800000000000000
+      internalID: -3501601733390341356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: its now safe to turn off your computer meme_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 48
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8978ce9ce529fb300800000000000000
+      internalID: 270095438477821848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: its now safe to turn off your computer meme_4
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 48
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e9dbc02d1c56530800000000000000
+      internalID: 3847694564559003206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: its now safe to turn off your computer meme_5
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 48
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6218235fd4d219860800000000000000
+      internalID: 7534853464417009958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: its now safe to turn off your computer meme_6
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 48
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0aa35638aec05b0800000000000000
+      internalID: -5400684003064110876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: its now safe to turn off your computer meme_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 48
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f0788a354ad9130800000000000000
+      internalID: 3575194358418706219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: its now safe to turn off your computer meme_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05dc89702250587a0800000000000000
+      internalID: -6375684053758587568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: its now safe to turn off your computer meme_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 48
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a343a67808a6a50800000000000000
+      internalID: 6515161130035591805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: its now safe to turn off your computer meme_10
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 48
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87a9686642413d90800000000000000
+      internalID: -7119836665729144948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: its now safe to turn off your computer meme_11
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 48
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0806a11e49eacc530800000000000000
+      internalID: 3876665333714149504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: its now safe to turn off your computer meme_12
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 48
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5cfb2f56def89c0800000000000000
+      internalID: -3922655728296278613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: its now safe to turn off your computer meme_13
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 48
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c719f48a582b323c0800000000000000
+      internalID: -4385465325004549764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: its now safe to turn off your computer meme_14
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 48
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763b3659403057370800000000000000
+      internalID: 8319559204857951079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: its now safe to turn off your computer meme_15
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 48
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a22719338de1c300800000000000000
+      internalID: 270758600473256614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: its now safe to turn off your computer meme_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 48
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2690e4206caa2ea80800000000000000
+      internalID: -8438994984319973022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: its now safe to turn off your computer meme_17
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 43
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7799dcbcccb856c0800000000000000
+      internalID: -4154363068721555585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: its now safe to turn off your computer meme_18
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 7
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826f315b3f01964e0800000000000000
+      internalID: -1988039121606281688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: its now safe to turn off your computer meme_19
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 11
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318eebe4b20ac9740800000000000000
+      internalID: 5160175380924917779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: its now safe to turn off your computer meme_20
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 11
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437dcebe527e2c3c0800000000000000
+      internalID: -4340652940773763276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: its now safe to turn off your computer meme_21
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 11
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a01195b4ce788fa0800000000000000
+      internalID: -5798245136914640736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: its now safe to turn off your computer meme_22
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 7
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86eea3a7369ba3e80800000000000000
+      internalID: -8198036334770983320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: its now safe to turn off your computer meme_23
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 11
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672912975d6e803a0800000000000000
+      internalID: -6698850641178946954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: its now safe to turn off your computer meme_24
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 11
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884e9f03ae61696c0800000000000000
+      internalID: -4137094012593380216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: its now safe to turn off your computer meme_25
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 11
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02692ab201ff8bd0800000000000000
+      internalID: -2625615063718206965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      its now safe to turn off your computer meme_0: -7247404482125015890
+      its now safe to turn off your computer meme_1: -3441628913212279581
+      its now safe to turn off your computer meme_10: -7119836665729144948
+      its now safe to turn off your computer meme_11: 3876665333714149504
+      its now safe to turn off your computer meme_12: -3922655728296278613
+      its now safe to turn off your computer meme_13: -4385465325004549764
+      its now safe to turn off your computer meme_14: 8319559204857951079
+      its now safe to turn off your computer meme_15: 270758600473256614
+      its now safe to turn off your computer meme_16: -8438994984319973022
+      its now safe to turn off your computer meme_17: -4154363068721555585
+      its now safe to turn off your computer meme_18: -1988039121606281688
+      its now safe to turn off your computer meme_19: 5160175380924917779
+      its now safe to turn off your computer meme_2: -3501601733390341356
+      its now safe to turn off your computer meme_20: -4340652940773763276
+      its now safe to turn off your computer meme_21: -5798245136914640736
+      its now safe to turn off your computer meme_22: -8198036334770983320
+      its now safe to turn off your computer meme_23: -6698850641178946954
+      its now safe to turn off your computer meme_24: -4137094012593380216
+      its now safe to turn off your computer meme_25: -2625615063718206965
+      its now safe to turn off your computer meme_3: 270095438477821848
+      its now safe to turn off your computer meme_4: 3847694564559003206
+      its now safe to turn off your computer meme_5: 7534853464417009958
+      its now safe to turn off your computer meme_6: -5400684003064110876
+      its now safe to turn off your computer meme_7: 3575194358418706219
+      its now safe to turn off your computer meme_8: -6375684053758587568
+      its now safe to turn off your computer meme_9: 6515161130035591805
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
