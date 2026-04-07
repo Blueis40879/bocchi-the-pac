@@ -17,7 +17,7 @@ public class coin : MonoBehaviour
         {
             Player  player = collision.gameObject.GetComponent<Player>();
             player.coins += 1;
-            coinText.text = player.coins.ToString();
+            coinText.text = player.coins.ToString() + "/100";
             Destroy(gameObject);
         }
     }

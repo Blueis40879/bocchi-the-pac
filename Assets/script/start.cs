@@ -3,9 +3,8 @@ using UnityEngine.SceneManagement;
 
 public class start : MonoBehaviour
 {
-    public void LoadCurrentScene()
+    public void PlayGame()
     {
-        UnityEngine.SceneManagement.SceneManager.LoadScene("REAL game");
-        Time.timeScale = 1;
+        SceneManager.LoadSceneAsync("REAL game");
     }
 }
