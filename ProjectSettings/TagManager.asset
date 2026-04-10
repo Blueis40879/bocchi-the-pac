@@ -7,6 +7,8 @@ TagManager:
   - CoinText
   - Damage
   - walls
+  - Wall
+  - Pedal
   layers:
   - Default
   - TransparentFX
